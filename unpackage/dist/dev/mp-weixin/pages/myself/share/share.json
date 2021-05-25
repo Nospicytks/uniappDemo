@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "分享好友",
+  "usingComponents": {
+    "u-mask": "/uview-ui/components/u-mask/u-mask"
+  }
+}

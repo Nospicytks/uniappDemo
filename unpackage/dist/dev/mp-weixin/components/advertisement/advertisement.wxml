@@ -1,0 +1,1 @@
+<view class="advertisement"><view class="top _div"><image src="{{pic}}" mode></image></view><view class="bottom _div"><view data-event-opts="{{[['tap',[['close',['$event']]]]]}}" class="close _div" bindtap="__e"><u-icon vue-id="2867ecf6-1" name="close" color="#fff" size="32" bind:__l="__l"></u-icon></view></view></view>

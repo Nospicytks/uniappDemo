@@ -1,0 +1,1 @@
+<view class="photo data-v-0324524e"><view class="wrap data-v-0324524e"><view class="u-avatar-wrap data-v-0324524e"><image class="u-avatar-demo data-v-0324524e" src="{{avatar}}" mode="aspectFill"></image></view><view data-event-opts="{{[['tap',[['chooseAvatar']]]]}}" class="photobutton data-v-0324524e" bindtap="__e">{{buttonTitle}}</view></view></view>

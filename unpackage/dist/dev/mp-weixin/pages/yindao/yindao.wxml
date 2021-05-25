@@ -1,0 +1,1 @@
+<view class="yindao"><swiper class="swiper"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index"><swiper-item data-event-opts="{{[['tap',[['go',[index]]]]]}}" bindtap="__e"><image mode="widthFix" src="{{item}}"></image></swiper-item></block></swiper></view>

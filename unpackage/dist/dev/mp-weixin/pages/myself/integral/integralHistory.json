@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "积分记录",
+  "navigationBarBackgroundColor": "#FF986E",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}

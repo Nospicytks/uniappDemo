@@ -1,0 +1,247 @@
+{
+	"easycom": {
+	        "^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	    },
+	"pages": [
+		{
+			"path": "pages/index",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/yindao/yindao",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "大然泊车"
+			}
+		},
+		{
+			"path": "pages/nearby/index",
+			"style": {
+				"navigationBarTitleText": "附近停车场"
+			}
+		},
+		{
+			"path": "pages/home/waibu",
+			"style": {
+				"navigationBarTitleText": "广告"
+			}
+		},
+		{
+			"path": "pages/nearby/detail/detail",
+			"style": {
+				"navigationBarTitleText": "停车场详情"
+			}
+		},
+		{
+			"path": "pages/nearby/map/map",
+			"style": {
+				"navigationBarTitleText": "查看导航"
+			}
+		},
+		{
+			"path": "pages/myself/index",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "授权登录"
+			}
+		},
+		{
+			"path": "pages/home/addCars/addCars",
+			"style": {
+				"navigationBarTitleText": "添加车辆"
+			}
+		},
+		{
+			"path": "pages/home/addCars/attestation/attestation",
+			"style": {
+				"navigationBarTitleText": "我的爱车"
+			}
+		},
+		{
+			"path": "pages/home/addCars/attestation/attCar",
+			"style": {
+				"navigationBarTitleText": "车辆认证"
+			}
+		},
+		{
+			"path": "uview-ui/components/u-avatar-cropper/u-avatar-cropper",
+			"style": {
+				"navigationBarTitleText": "头像正面裁剪",
+				"navigationBarBackgroundColor": "#000000"
+			}
+		},
+		{
+			"path": "pages/home/addCars/ertificationCar",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		// 办卡
+		{
+			"path": "pages/home/buyCards/index",
+			"style": {
+				"navigationBarTitleText": "购买包时卡",
+				"navigationBarBackgroundColor": "#5D84FD",//顶部背景色
+				"navigationBarTextStyle": "white" //文字颜色，目前只支持white和black这两种颜色（小程序）
+			}
+		},
+		// 确认订单
+		{
+			"path": "pages/home/buyCards/orderSure",
+			"style": {
+				"navigationBarTitleText": "确认订单",
+				"navigationBarBackgroundColor": "#5D84FD",//顶部背景色
+				"navigationBarTextStyle": "white" //文字颜色，目前只支持white和black这两种颜色（小程序）
+			}
+		},
+		// 支付成功
+		{
+			"path": "pages/home/buyCards/carordersuccess",
+			"style": {
+				"navigationBarTitleText": "支付成功",
+				"navigationBarBackgroundColor": "#5D84FD",//顶部背景色
+				"navigationBarTextStyle": "white" //文字颜色，目前只支持white和black这两种颜色（小程序）
+			}
+		},
+		{
+			"path": "pages/myself/GOAuthenticate/GOAuthenticate",
+			"style": {
+				"navigationBarTitleText": "个人认证"
+			}
+		},
+		{
+			"path": "pages/myself/GOAuthenticate/messagesSure",
+			"style": {
+				"navigationBarTitleText": "确认信息"
+			}
+		},
+		{
+			"path": "pages/myself/GOAuthenticate/authenticateSuccess",
+			"style": {
+				"navigationBarTitleText": "认证完成"
+			}
+		},
+		{
+			"path": "pages/myself/history/history",
+			"style": {
+				"navigationBarTitleText": "消费记录"
+			}
+		},
+		{
+			"path": "pages/myself/history/gameHistory",
+			"style": {
+				"navigationBarTitleText": "中奖记录"
+			}
+		},
+		{
+			"path": "pages/myself/history/jihuo",
+			"style": {
+				"navigationBarTitleText": "激活包时卡"
+			}
+		},
+		{
+			"path": "pages/myself/couponpage/couponpage",
+			"style": {
+				"navigationBarTitleText": "我的优惠劵"
+			}
+		},
+		{
+			"path": "pages/myself/opinion/opinion",
+			"style": {
+				"navigationBarTitleText": "意见反馈"
+			}
+		},
+		{
+			"path": "pages/myself/messages/messages",
+			"style": {
+				"navigationBarTitleText": "系统消息"
+			}
+		},
+		// 签到
+		{
+			"path": "pages/myself/register/register",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		// 分享
+		{
+			"path": "pages/myself/share/share",
+			"style": {
+				"navigationBarTitleText": "分享好友"
+			}
+		},
+		// 账户余额
+		{
+			"path": "pages/myself/account/account",
+			"style": {
+				"navigationBarTitleText": "余额充值",
+				"navigationBarBackgroundColor": "#587EFB",//顶部背景色
+				"navigationBarTextStyle": "white" //文字颜色，目前只支持white和black这两种颜色（小程序）
+			}
+		},
+		{
+			"path": "pages/myself/account/accountDetail",
+			"style": {
+				"navigationBarTitleText": "余额明细"
+			}
+		},
+		{
+			"path": "pages/myself/integral/integralHistory",
+			"style": {
+				"navigationBarTitleText": "积分记录",
+				"navigationBarBackgroundColor": "#FF986E",//顶部背景色
+				"navigationBarTextStyle": "white" //文字颜色，目前只支持white和black这两种颜色（小程序）
+			}
+		},
+		{
+			"path": "pages/myself/integral/integralList",
+			"style": {
+				"navigationBarTitleText": "积分兑换"
+			}
+		},
+		{
+			"path": "pages/myself/integral/integralDetail",
+			"style": {
+				"navigationBarTitleText": "积分兑换详情"
+			}
+		},
+		// 转盘抽奖
+		{
+			"path": "pages/myself/game/game",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/home/Order/order",
+			"style": {
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/home/Order/ordersuccess",
+			"style": {
+				"navigationBarTitleText": "缴费成功"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "大然泊车",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

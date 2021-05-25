@@ -1,0 +1,1 @@
+<view class="ertificationCar"><view class="top" style="background:url(http://daranzhibojiekou.daranjituan.com/static/mini/static/home/loading.png) no-repeat;background-size:100% 100%;"></view><view class="success">已提交， 等待处理</view><view data-event-opts="{{[['tap',[['goBack',['$event']]]]]}}" class="goBack" bindtap="__e">返回</view></view>

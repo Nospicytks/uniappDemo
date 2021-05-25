@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d32f4c47-3ee0-46e9-aeb0-2b4a8831f1b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../120医院展示/demo/src/assets/images/newimg/bjcall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../120医院展示/demo/src/assets/images/newimg/jcall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/CustomView/SZViewForCustomType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/CustomView/SZViewForCustomType.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/HomeCell/SZTVCellForHomeWithTalentShow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/HomeCell/SZTVCellForHomeWithTalentShow.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/HomeCell/SZTVCellForHomeWithTalentShowHeader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/HomeCell/SZTVCellForHomeWithTalentShowHeader.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/MeCell/SkillIdentCell/SZTVCellForAction.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/MeCell/SkillIdentCell/SZTVCellForAction.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/MeCell/SkillIdentCell/SZTVCellForTitle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/MeCell/SkillIdentCell/SZTVCellForTitle.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/BridgeCell/SZTVCellForBridgeImage.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/BridgeCell/SZTVCellForBridgeImage.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/HapplyLifeCell/SZTVCellForHapplyLiftApply.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/HapplyLifeCell/SZTVCellForHapplyLiftApply.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/HapplyLifeCell/SZTVCellForHapplyLiftApplyHeader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/HapplyLifeCell/SZTVCellForHapplyLiftApplyHeader.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/HapplyLifeCell/SZTVCellForHapplyLiftState.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/HapplyLifeCell/SZTVCellForHapplyLiftState.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/UnionRoomCell/SZTVCellForUnionRoomContent.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/UnionRoomCell/SZTVCellForUnionRoomContent.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/UnionRoomCell/SZTVCellForUnionRoomHeader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Cell/UtilityCell/UnionRoomCell/SZTVCellForUnionRoomHeader.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Model/HomeModel/SZModelForUnionWindow.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Model/HomeModel/SZModelForUnionWindow.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Model/MeModel/SZModelForSkillType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Model/MeModel/SZModelForSkillType.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Model/UtilityModel/SZModelForCommuniCate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Model/UtilityModel/SZModelForCommuniCate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadApp_76pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadApp_76pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadNotifications_20pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadNotifications_20pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadProApp_83.5pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadSpootlight5_29pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadSpootlight5_29pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadSpootlight7_40pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPadSpootlight7_40pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneApp_60pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneApp_60pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneNotification_20pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneNotification_20pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneSpootlight5_29pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneSpootlight5_29pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneSpootlight7_40pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/AppIcon.appiconset/Icon@2xiPhoneSpootlight7_40pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/SkillIdent_image_place.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/SkillIdent_image_place.imageset/SkillIdent_image_place@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_bottom.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_bottom.imageset/home_bottom@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_bottom.imageset/home_bottom@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_example_btn.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_example_btn.imageset/home_example_btn@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_header_bg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_header_bg.imageset/home_header_bg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_1.imageset/home_menu_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_1.imageset/home_menu_1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_1.imageset/home_menu_1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_10.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_10.imageset/home_menu_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_10.imageset/home_menu_10@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_10.imageset/home_menu_10@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_11.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_11.imageset/home_menu_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_11.imageset/home_menu_11@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_11.imageset/home_menu_11@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_12.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_12.imageset/home_menu_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_12.imageset/home_menu_12@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_12.imageset/home_menu_12@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_13.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_13.imageset/home_menu_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_2.imageset/home_menu_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_2.imageset/home_menu_2@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_2.imageset/home_menu_2@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_3.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_3.imageset/home_menu_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_3.imageset/home_menu_3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_3.imageset/home_menu_3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_4.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_4.imageset/home_menu_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_4.imageset/home_menu_4@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_4.imageset/home_menu_4@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_5.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_5.imageset/home_menu_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_5.imageset/home_menu_5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_5.imageset/home_menu_5@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_6.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_6.imageset/home_menu_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_6.imageset/home_menu_6@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_6.imageset/home_menu_6@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_7.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_7.imageset/home_menu_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_7.imageset/home_menu_7@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_7.imageset/home_menu_7@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_8.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_8.imageset/home_menu_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_8.imageset/home_menu_8@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_8.imageset/home_menu_8@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_9.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_9.imageset/home_menu_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_9.imageset/home_menu_9@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_menu_9.imageset/home_menu_9@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_notice_icon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_notice_icon.imageset/home_notice_icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_notice_icon.imageset/home_notice_icon@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_place.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_place.imageset/home_place.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_place_1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_place_1.imageset/home_place_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_point_bg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_point_bg.imageset/home_point_bg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_point_bg.imageset/home_point_bg@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_point_go.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_point_go.imageset/home_point_go@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_right.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_right.imageset/home_right@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/home_right.imageset/home_right@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/message_add.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/home/message_add.imageset/message_add@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/location_icon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/location_icon.imageset/LC_icon_gps_fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/app_icon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/app_icon.imageset/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_closeEye.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_closeEye.imageset/login_closeEye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_openEye.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_openEye.imageset/login_openEye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_passworld.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_passworld.imageset/login_passworld@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_phone.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_phone.imageset/login_phone@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_rember.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_rember.imageset/login_rember@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_rember_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_rember_select.imageset/login_rember_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_role_choose.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_role_choose.imageset/login_role_choose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_role_normal.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/login_role_normal.imageset/login_role_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/me_apply_bg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/me_apply_bg.imageset/me_apply_bg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/me_skillIdent_image_place.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/me/me_skillIdent_image_place.imageset/me_skillIdent_image_place@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/my_changepassword.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/my_changepassword.imageset/my_point@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/my_header_place.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/my_header_place.imageset/my_header_place@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/my_point.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/my_point.imageset/my_changepassword@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/comment_bg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/comment_bg.imageset/comment_bg@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/comment_bg.imageset/comment_bg@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_camera.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_camera.imageset/moment_camera@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_camera.imageset/moment_camera@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_comment.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_comment.imageset/moment_comment@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_comment.imageset/moment_comment@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_comment_hl.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_comment_hl.imageset/moment_comment_hl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_comment_hl.imageset/moment_comment_hl@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_cover.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_cover.imageset/moment_cover@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_emoticon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_emoticon.imageset/moment_emoticon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_emoticon_hl.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_emoticon_hl.imageset/moment_emoticon_hl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_head.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_head.imageset/moment_head@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_keybord.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_keybord.imageset/moment_keybord@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_keybord_hl.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_keybord_hl.imageset/moment_keybord_hl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_like.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_like.imageset/moment_like@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_like.imageset/moment_like@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_like_hl.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_like_hl.imageset/moment_like_hl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_like_hl.imageset/moment_like_hl@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_map_point.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_map_point.imageset/moment_map_point@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_map_point.imageset/moment_map_point@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_operate.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_operate.imageset/moment_operate@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_operate.imageset/moment_operate@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_operate_hl.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_operate_hl.imageset/moment_operate_hl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_operate_hl.imageset/moment_operate_hl@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_refresh.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/staff/moment_refresh.imageset/moment_refresh@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_home.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_home.imageset/tab_home@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_home.imageset/tab_home@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_home_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_home_select.imageset/tab_home_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_home_select.imageset/tab_home_select@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_me.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_me.imageset/tab_me@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_me.imageset/tab_me@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_me_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_me_select.imageset/tab_me_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_staff.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_staff.imageset/tab_staff@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_staff.imageset/tab_staff@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_staff_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_staff_select.imageset/tab_staff_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_utility.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_utility.imageset/tab_utility@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_utility.imageset/tab_utility@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_utility_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_utility_select.imageset/tab_utility_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/tabbar/tab_utility_select.imageset/tab_utility_select@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_collect.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_collect.imageset/TalentShow_collect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_collect_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_collect_select.imageset/TalentShow_collect_select@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_eye.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_eye.imageset/TalentShow_eye@2x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_eye_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_eye_select.imageset/TalentShow_eye_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_foce.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_foce.imageset/TalentShow_foce@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_foce_select.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_foce_select.imageset/TalentShow_foce_select@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_people.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/TalentShow_people.imageset/TalentShow_people@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/bridge_chosen.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/bridge_chosen.imageset/bridge_chosen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_communicate_reply.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_communicate_reply.imageset/icon_communicate_reply@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_communicate_reply.imageset/icon_communicate_reply@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_full.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_full.imageset/icon_full@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_full.imageset/icon_full@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_pause.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_pause.imageset/icon_pause@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_pause.imageset/icon_pause@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_play.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_play.imageset/icon_play@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_play.imageset/icon_play@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_play_hl.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_play_hl.imageset/icon_play_hl@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_play_hl.imageset/icon_play_hl@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_progress.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_progress.imageset/icon_progress@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_progress.imageset/icon_progress@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_repeat_video.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_repeat_video.imageset/icon_repeat_video@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/icon_repeat_video.imageset/icon_repeat_video@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/placeHolderbg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/placeHolderbg.imageset/placeHolderbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/play.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/play.imageset/db_play_big@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/play.imageset/db_play_big@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/repair_delete.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/repair_delete.imageset/repair_delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/union_room_end.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/union_room_end.imageset/union_room_end@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/union_room_full.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/union_room_full.imageset/union_room_full@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/union_room_start.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/union_room_start.imageset/union_room_start@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/utility_happly_life_message.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/utility_happly_life_message.imageset/utility_happly_life_message@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/utility_happly_life_num.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/utility_happly_life_num.imageset/utility_happly_life_num@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/utility_happly_life_type.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/utility_happly_life_type.imageset/utility_happly_life_type@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/voice.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/utility/voice.imageset/voice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/www.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/Support File/Assets.xcassets/www.imageset/www.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/AccountVC/SZVCForSmsLogin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/AccountVC/SZVCForSmsLogin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/HomeVC/SZVCForWeb.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/HomeVC/SZVCForWeb.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/MeVC/SZVCForSkillType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/MeVC/SZVCForSkillType.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/MeVC/SZVCForTextView.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/MeVC/SZVCForTextView.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/MeVC/SZVCForUserInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/MeVC/SZVCForUserInfo.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/Carpooling/SZVCForCarpooling.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/Carpooling/SZVCForCarpooling.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/EnterpriseVC/SZVCForEnterpriseDetail.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/EnterpriseVC/SZVCForEnterpriseDetail.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/InnovateVC/SZVCForInnovateDetail.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/InnovateVC/SZVCForInnovateDetail.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/UnionRoomVC/SZVCForUnionRoomDetail.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProvincialTradeUnion/ProvincialTradeUnion/ViewController/UtilityVC/UnionRoomVC/SZVCForUnionRoomDetail.m" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1qvVojeHS7OtxkAxsAonDg8QYUC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d32f4c47-3ee0-46e9-aeb0-2b4a8831f1b3" name="Default Changelist" comment="" />
+      <created>1617960227929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617960227929</updated>
+      <workItem from="1617960229587" duration="518000" />
+      <workItem from="1617960877960" duration="179000" />
+      <workItem from="1617961074432" duration="316000" />
+      <workItem from="1618032243833" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617960243139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="199" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617960243139" />
+    <state x="459" y="176" key="SettingsEditor" timestamp="1617961023856">
+      <screen x="0" y="25" width="1920" height="965" />
+    </state>
+    <state x="459" y="176" key="SettingsEditor/0.25.1920.965@0.25.1920.965" timestamp="1617961023856" />
+    <state x="661" y="295" width="597" height="490" key="find.popup" timestamp="1617960675705">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="295" width="597" height="490" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1617960675705" />
+  </component>
+</project>

@@ -1,0 +1,438 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.order {
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 15%;
+}
+.order .center {
+  background-color: #fff;
+  height: 900rpx;
+  margin-top: 3%;
+  -webkit-border-radius: 12rpx;
+          border-radius: 12rpx;
+}
+.order .center .center-item {
+  height: 100rpx;
+  line-height: 100rpx;
+  width: 95%;
+  margin: 0 auto;
+  border-bottom: 1px solid #e6e6e6;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 28rpx;
+}
+.order .center .center-item .center-item-left {
+  margin-right: auto;
+}
+.order .center .center-item .center-item-right {
+  margin-left: auto;
+}
+.order .center .allprice {
+  text-align: center;
+}
+.order .center .allprice ._div:nth-child(1) {
+  margin-top: 8%;
+  color: #fa3534;
+}
+.order .center .allprice ._div:nth-child(2) {
+  margin-top: 5%;
+  color: #333;
+}
+.order .center .allprice ._div:nth-child(3) {
+  margin-top: 5%;
+}
+.order .center .changepay {
+  height: 90rpx;
+  width: 90%;
+  margin: 0 auto;
+  font-weight: bold;
+  line-height: 90rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 30rpx;
+  color: #333;
+}
+.order .center .changepay ._div:nth-child(1) {
+  width: 93%;
+}
+.order .center .changepay ._div:nth-child(2) {
+  width: 7%;
+  background-color: #ececec;
+  color: rgba(0, 0, 0, 0.447059);
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  height: 47rpx;
+  margin-top: 3%;
+  text-align: center;
+  line-height: 47rpx;
+  font-size: 22rpx;
+  cursor: pointer;
+}
+.order .center .couponlist-box {
+  background-color: #fafbfd;
+  margin: 0 auto;
+  margin-top: 3%;
+  width: 95%;
+}
+.order .center .couponlist-box .couponlist-item {
+  width: 80%;
+  margin-left: 5%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 200rpx;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-a {
+  width: 35%;
+  height: 100%;
+  color: #fff;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-a ._div:nth-child(1) {
+  height: 100rpx;
+  line-height: 150rpx;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 22%;
+  margin-top: 10%;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-a ._div:nth-child(2) {
+  margin-left: 22%;
+  margin-top: 10%;
+  color: #e6e6e6;
+  text-align: center;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b {
+  width: 65%;
+  background-color: #fff;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child {
+  width: 90%;
+  height: 100%;
+  margin-left: 5%;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 140rpx;
+  border-bottom: 1px solid #d6d6d6;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top .couponlist-item-b-child-top-left {
+  width: 60%;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top .couponlist-item-b-child-top-left ._div {
+  height: 60rpx;
+  line-height: 60rpx;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top .couponlist-item-b-child-top-left ._div:nth-child(1) {
+  color: #333;
+  font-weight: bold;
+  font-size: 28rpx;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top .couponlist-item-b-child-top-left ._div:nth-child(2) {
+  color: rgba(0, 0, 0, 0.447059);
+  font-size: 25rpx;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top .couponlist-item-b-child-top-right {
+  width: 35%;
+  height: 45rpx;
+  line-height: 45rpx;
+  cursor: pointer;
+  text-align: center;
+  border: 1px solid #ff9a6e;
+  -webkit-border-radius: 49rpx;
+          border-radius: 49rpx;
+  font-size: 24rpx;
+  margin-top: 8%;
+  color: #ff9a6e;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-top .couponlist-item-b-child-top-right2 {
+  width: 35%;
+  height: 45rpx;
+  line-height: 45rpx;
+  cursor: pointer;
+  text-align: center;
+  border: 1px solid #f3b440;
+  -webkit-border-radius: 49rpx;
+          border-radius: 49rpx;
+  font-size: 24rpx;
+  margin-top: 8%;
+  color: #f3b440;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-bottom {
+  height: 60rpx;
+  line-height: 60rpx;
+  color: #d6d6d6;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-bottom ._div:nth-child(1) {
+  width: 90%;
+}
+.order .center .couponlist-box .couponlist-item .couponlist-item-b .couponlist-item-b-child .couponlist-item-b-child-bottom ._div:nth-child(2) {
+  width: 8%;
+  height: 30rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  margin-top: 5%;
+  background-color: #cccccc;
+  line-height: 25rpx;
+  text-align: center;
+  cursor: pointer;
+}
+.order .center .couponlist-box .activeback {
+  background-color: #f0f1f5;
+}
+.order .center .couponlist-box .couponlist-info {
+  height: 200rpx;
+  margin-top: 3%;
+  color: rgba(0, 0, 0, 0.447059);
+}
+.order .center .couponlist-box .couponlist-info ._div {
+  height: 40rpx;
+  line-height: 40rpx;
+  font-size: 26rpx;
+}
+.order .center .couponlist-box .couponlist-info ._div text:nth-child(2) {
+  margin-left: 3%;
+}
+.order .center .couponlist-box .couponlist-info-hidden {
+  -webkit-animation-name: couponlistanima;
+          animation-name: couponlistanima;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+@-webkit-keyframes couponlistanima {
+0% {
+    height: 200rpx;
+}
+10% {
+    height: 180rpx;
+}
+20% {
+    height: 160rpx;
+}
+30% {
+    height: 140rpx;
+}
+40% {
+    height: 120rpx;
+}
+50% {
+    height: 100rpx;
+}
+60% {
+    height: 80rpxrpx;
+}
+70% {
+    height: 60rpxrpx;
+}
+80% {
+    height: 40rpx;
+}
+90% {
+    height: 20rpx;
+}
+100% {
+    height: 0rpx;
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+}
+}
+@keyframes couponlistanima {
+0% {
+    height: 200rpx;
+}
+10% {
+    height: 180rpx;
+}
+20% {
+    height: 160rpx;
+}
+30% {
+    height: 140rpx;
+}
+40% {
+    height: 120rpx;
+}
+50% {
+    height: 100rpx;
+}
+60% {
+    height: 80rpxrpx;
+}
+70% {
+    height: 60rpxrpx;
+}
+80% {
+    height: 40rpx;
+}
+90% {
+    height: 20rpx;
+}
+100% {
+    height: 0rpx;
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+}
+}
+.order .center .couponlist-box .couponlist-info-block {
+  -webkit-animation-name: couponlistanimabl;
+          animation-name: couponlistanimabl;
+  -webkit-animation-duration: 0.5s;
+          animation-duration: 0.5s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+@-webkit-keyframes couponlistanimabl {
+0% {
+    height: 0rpx;
+}
+10% {
+    height: 20rpx;
+}
+20% {
+    height: 40rpx;
+}
+30% {
+    height: 60rpx;
+}
+40% {
+    height: 80rpx;
+}
+50% {
+    height: 100rpx;
+}
+60% {
+    height: 120rpxrpx;
+}
+70% {
+    height: 140rpxrpx;
+}
+80% {
+    height: 160rpx;
+}
+90% {
+    height: 180rpx;
+}
+100% {
+    height: 200rpx;
+}
+}
+@keyframes couponlistanimabl {
+0% {
+    height: 0rpx;
+}
+10% {
+    height: 20rpx;
+}
+20% {
+    height: 40rpx;
+}
+30% {
+    height: 60rpx;
+}
+40% {
+    height: 80rpx;
+}
+50% {
+    height: 100rpx;
+}
+60% {
+    height: 120rpxrpx;
+}
+70% {
+    height: 140rpxrpx;
+}
+80% {
+    height: 160rpx;
+}
+90% {
+    height: 180rpx;
+}
+100% {
+    height: 200rpx;
+}
+}
+.order .center .couponButton {
+  height: 90rpx;
+  line-height: 90rpx;
+  color: #fff;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 5%;
+  text-align: center;
+  background-color: #fa3534;
+  -webkit-border-radius: 50rpx;
+          border-radius: 50rpx;
+}
+.order .center .change {
+  height: 200rpx;
+  width: 100%;
+  padding-left: 5%;
+}
+.order .center .change .radioclass {
+  margin-top: 5%;
+}
+.order .center .change-button {
+  width: 90%;
+  height: 85rpx;
+  -webkit-border-radius: 39rpx;
+          border-radius: 39rpx;
+  margin: 0 auto;
+  background-color: #4d74f7;
+  text-align: center;
+  color: #fff;
+  letter-spacing: 4rpx;
+  line-height: 85rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  margin-top: 5%;
+  cursor: pointer;
+}
+.order .surebutton {
+  margin: 0 auto;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  color: #fff;
+  letter-spacing: 2rpx;
+  background-color: #4d74f7;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  margin-top: 16%;
+  cursor: pointer;
+}
+

@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.development {
+  width: 90%;
+  margin: 0 auto;
+  height: 700rpx;
+  margin-top: 30%;
+}
+.development .devtop {
+  height: 650rpx;
+  -webkit-border-radius: 16rpx;
+          border-radius: 16rpx;
+  background-color: #fff;
+  padding-top: 15%;
+}
+.development .devtop .img {
+  width: 70%;
+  margin: 0 auto;
+  height: 220rpx;
+}
+.development .devtop .img image {
+  width: 100%;
+  height: 100%;
+}
+.development .devtop .title {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 15%;
+  text-align: center;
+  height: 60rpx;
+  line-height: 60rpx;
+  background-color: #f4f7fe;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+  border: 1px solid #f4f7fe;
+  color: rgba(0, 0, 0, 0.4);
+}
+.development .devtop .mess {
+  width: 70%;
+  margin: 0 auto;
+  font-weight: bold;
+  color: #7085ec;
+  text-align: center;
+  font-size: 42rpx;
+  margin-top: 8%;
+}
+.development .bottom {
+  height: 100rpx;
+  margin-top: 10%;
+}
+.development .bottom .close {
+  width: 10%;
+  margin: 0 auto;
+  height: 70rpx;
+  line-height: 65rpx;
+  text-align: center;
+  border: 3px solid #fff;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+

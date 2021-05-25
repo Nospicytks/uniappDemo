@@ -1,0 +1,1 @@
+<view class="ordersuccess"><view class="top"></view><view class="success"><view class="_div">恭喜， 缴费成功</view><view class="_div">{{"¥"+total_money}}</view></view><view class="tishi">您已完成付款</view><view data-event-opts="{{[['tap',[['goBack',['$event']]]]]}}" class="goBack" bindtap="__e">返回</view></view>

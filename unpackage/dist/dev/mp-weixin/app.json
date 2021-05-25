@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/yindao/yindao",
+    "pages/home/index",
+    "pages/nearby/index",
+    "pages/home/waibu",
+    "pages/nearby/detail/detail",
+    "pages/nearby/map/map",
+    "pages/myself/index",
+    "pages/login/index",
+    "pages/home/addCars/addCars",
+    "pages/home/addCars/attestation/attestation",
+    "pages/home/addCars/attestation/attCar",
+    "uview-ui/components/u-avatar-cropper/u-avatar-cropper",
+    "pages/home/addCars/ertificationCar",
+    "pages/home/buyCards/index",
+    "pages/home/buyCards/orderSure",
+    "pages/home/buyCards/carordersuccess",
+    "pages/myself/GOAuthenticate/GOAuthenticate",
+    "pages/myself/GOAuthenticate/messagesSure",
+    "pages/myself/GOAuthenticate/authenticateSuccess",
+    "pages/myself/history/history",
+    "pages/myself/history/gameHistory",
+    "pages/myself/history/jihuo",
+    "pages/myself/couponpage/couponpage",
+    "pages/myself/opinion/opinion",
+    "pages/myself/messages/messages",
+    "pages/myself/register/register",
+    "pages/myself/share/share",
+    "pages/myself/account/account",
+    "pages/myself/account/accountDetail",
+    "pages/myself/integral/integralHistory",
+    "pages/myself/integral/integralList",
+    "pages/myself/integral/integralDetail",
+    "pages/myself/game/game",
+    "pages/home/Order/order",
+    "pages/home/Order/ordersuccess"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "大然泊车",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "usingComponents": {
+    "tab-bar": "/components/tabbar/tabbar",
+    "v-menu": "/components/menus/menu",
+    "v-adv": "/components/advertisement/advertisement",
+    "v-search": "/components/search/search",
+    "v-dev": "/components/development/development",
+    "v-img-upload": "/components/ImgUpload",
+    "v-img-upload-back": "/components/ImgUploadBack",
+    "our-loading": "/components/our-loading/our-loading"
+  },
+  "sitemapLocation": "sitemap80.json"
+}

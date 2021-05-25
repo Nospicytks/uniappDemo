@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "附近停车场",
+  "usingComponents": {
+    "u-mask": "/uview-ui/components/u-mask/u-mask",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}
